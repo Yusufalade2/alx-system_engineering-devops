@@ -1,2 +1,2 @@
 #!/bin/bash
-echo set built-in
+set built-in
