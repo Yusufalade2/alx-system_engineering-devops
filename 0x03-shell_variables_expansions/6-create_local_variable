@@ -1,3 +1,5 @@
 #!/bin/bash
 name=BEST
 value=School
+echo $name #prints BEST
+echo $value #prints School
